@@ -6,3 +6,4 @@
 <li>Add Names to the beginning of the list</li>
 <li>Add Names to the list, maintaining alphabetical order</li>
 <ul>
+<p>You can use the starter code and fill in your own code where needed.</p>
