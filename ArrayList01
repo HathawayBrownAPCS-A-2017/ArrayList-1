@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ArrayList01 {
+   public static void main(String[] args) {
+      // Declare a new ArrayList of Strings
+      
+      
+      // Read a Name from the keyboard; stop when the user just hits <ENTER>
+      Scanner kboard = new Scanner (System.in);
+      String nextName = kboard.nextLine();
+      while (nextName.length() > 0)
+      {
+         // Add the new Name to the list
+         
+         
+         // Get the next Name from the user
+         
+      }
+      
+      // Print the list
+      
+      
+      kboard.close();
+   }
+}
