@@ -7,7 +7,8 @@ public class ArrayList01 {
       
       
       // Read a Name from the keyboard; stop when the user just hits <ENTER>
-      Scanner kboard = new Scanner (System.in);
+      Scanner kboard = new Scanner (System.in);      
+      System.out.print ("Please enter a name [blank to quit]: ");
       String nextName = kboard.nextLine();
       while (nextName.length() > 0)
       {
